@@ -1,4 +1,5 @@
-<?
+<? /* Copyright (C) 2008-2014 Christian Stigen Larsen */
+
 // Håndbok: http://www.nlf.no/fallskjerm/html/su/haandbok/haandbokfnlf.html
 
 require_once("inc-settings.php");

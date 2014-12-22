@@ -1,4 +1,4 @@
-<? /* $Id: inc-chapters.php 159 2008-05-26 10:54:34Z csl $ */
+<? /* Copyright (C) 2008-2014 Christian Stigen Larsen */
 
 function get_chapter_title($chapter, $level = 1)
 {
@@ -9,7 +9,6 @@ function get_chapter_title($chapter, $level = 1)
 
 	$c = $_chapters[$chapter];
 	$title = $c['title'];
-	//$title = ucfirst(strtolower($c['title'])); // doesnt work with norwegian chars
 
 	return "<h{$level}>$title</h{$level}>\n";
 }

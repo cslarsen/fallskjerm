@@ -1,4 +1,4 @@
-<?
+<? /* Copyright (C) 2008-2014 Christian Stigen Larsen */
 
 // seed PRNG for shuffle() usage
 srand((float)microtime() * 1000000);
