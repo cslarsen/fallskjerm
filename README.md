@@ -1,11 +1,16 @@
 Fallskjerm-quiz
 ===============
 
-Inneholder et spørreprogram basert på innholdet i F/NLFs Håndbok, 8. utgave.
+Inneholder et spørreprogram og -database basert på innholdet i F/NLFs Håndbok,
+8. utgave.
 
-Laget dette mens jeg var aktiv fallskjermhopper for å hjelpe meg å øve til de
-forskjellige sertifikatene. Du kan teste ut programmet selv på
-[http://csl.name/skydiving/quiz/](csl.name).
+Du kan teste ut programmet selv på
+[http://csl.name/skydiving/quiz/](http://csl.name/skydiving/quiz/). 
+
+Laget dette mens jeg var aktiv fallskjermhopper rundt 2008 for å hjelpe meg til
+å æve på de forskjellige sertifikatene.  Noen deler er derfor helt sikkert
+utdaterte.  Legger nå ut alt ut som åpen kildekode i håp om at noen kan stjele
+deler herfra og videreutvikle.
 
 Bakgrunn
 --------
